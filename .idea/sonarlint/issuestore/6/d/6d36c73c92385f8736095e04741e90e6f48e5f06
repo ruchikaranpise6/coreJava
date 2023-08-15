@@ -1,0 +1,12 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(ÌÍÛ8íÏŠÓã0
+R
+java:S1854"<Remove this useless assignment to local variable "objArray".(½†ö—
+J
+java:S1481"-Remove this unused "objArray" local variable.(½†ö—8ß¼‹Óã0
+<
+java:S1481"&Remove this unused "c" local variable.(«–€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üş‰Í
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8äå‹Óã0

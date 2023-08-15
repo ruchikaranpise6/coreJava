@@ -15,7 +15,7 @@ public class MoveLastElementToFirst {
         ll.insert(8);
         ll.insert(7);
         ll.insert(4);
-        System.out.println("Original sorted linked list - ");
+        System.out.println("Original linked list - ");
         ll.printList();
 
         MoveLastElementToFirst swapNodesLL = new MoveLastElementToFirst(ll);

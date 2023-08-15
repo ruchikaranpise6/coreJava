@@ -1,0 +1,12 @@
+
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "x".(Â½¿º
+c	java:S116"NRename this field "Max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õš€Å
+7
+java:S1170"!Make this final field static too.(õš€Å
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(å¶èøÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(×¶«
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Èêƒûÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(áä¼ùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Èêƒûÿÿÿÿ
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Î¬Áç8Ç¢…ñù0

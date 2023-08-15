@@ -13,17 +13,18 @@ public class IntersectionOfTwoSortedList {
         list1.printList();
 
         LinkedListImpl list2 = new LinkedListImpl();
-        list2.insert(5);
-        list2.insert(3);
-        list2.insert(6);
+        list2.insert(1);
+        list2.insert(2);
         list2.insert(4);
-        list2.insert(3);
+        list2.insert(8);
+        list2.insert(9);
         System.out.println();
         System.out.println("List 2 - ");
         list2.printList();
 
         IntersectionOfTwoSortedList obj = new IntersectionOfTwoSortedList();
-        obj.intersectionOfLists(list1, list2);
+        //obj.intersectionOfLists(list1, list2);
+        obj.sortedIntersect(list1.head, list2.head);
     }
 
     void intersectionOfLists(LinkedListImpl list1, LinkedListImpl list2) {
@@ -66,7 +67,30 @@ public class IntersectionOfTwoSortedList {
             temp = temp.next;
         }
         System.out.println();
-        System.out.println("Intersection result - ");
+        System.out.println("Intersection result of unsorted list- ");
+        result.printList();
+    }
+
+    void sortedIntersect(LinkedListImpl.Node head1, LinkedListImpl.Node head2) {
+        LinkedListImpl.Node p = head1;
+        LinkedListImpl.Node q = head2;
+        LinkedListImpl result = new LinkedListImpl();
+
+        while (p != null && q != null) {
+
+            if (p.data == q.data) {
+                result.insert(p.data);
+                p = p.next;
+                q = q.next;
+            } else if (p.data < q.data) {
+                p = p.next;
+            } else {
+                q = q.next;
+            }
+        }
+
+        System.out.println();
+        System.out.println("Intersection result of sorted list- ");
         result.printList();
     }
 }

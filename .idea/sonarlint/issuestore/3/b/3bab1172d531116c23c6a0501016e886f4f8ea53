@@ -1,0 +1,15 @@
+
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²¯–³
+c	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÃ—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šŠËÏùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù¤¸Ëûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨’õåýÿÿÿÿ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ù¹Ž‡ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±óäÖýÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Îä›ðüÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(à™ƒÞúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¼÷Èõþÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(œ¹þûøÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¼÷Èõþÿÿÿÿ

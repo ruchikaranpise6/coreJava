@@ -1,0 +1,13 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ßî¶Û
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ßî¶Û
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ğ›Ãæ
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ŞÑÇ»8áâÏşù0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¼Õ¨´ÿÿÿÿÿ8ââÏşù0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ââÏşù0
+T	java:S1061"9Replace this use of System.out or System.err by a logger.(Œ°šP8ââÏşù0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ù¥—ˆùÿÿÿÿ8ãâÏşù0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ãâÏşù0

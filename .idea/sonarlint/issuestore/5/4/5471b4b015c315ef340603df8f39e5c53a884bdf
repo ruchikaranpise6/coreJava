@@ -1,0 +1,12 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ
+=
+java:S16597""Declare "temp" on a separate line.(ÑŽÊÈÿÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(’Ìô‚
+=
+java:S1659F""Declare "temp" on a separate line.(ÑŽÊÈÿÿÿÿÿ

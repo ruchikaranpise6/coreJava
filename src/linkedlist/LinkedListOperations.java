@@ -63,12 +63,12 @@ public class LinkedListOperations {
             head = newNode;
             return;
         }
-        Node last = head;
+        Node temp = head;
 
-        while (last.next != null) {
-            last = last.next;
+        while (temp.next != null) {
+            temp = temp.next;
         }
-        last.next = newNode;
+        temp.next = newNode;
         return;
     }
 

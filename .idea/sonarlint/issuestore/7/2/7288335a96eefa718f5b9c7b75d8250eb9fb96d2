@@ -1,0 +1,27 @@
+
+7
+java:S1643"Use a StringBuilder instead.(ßòÉÑøÿÿÿÿ
+7
+java:S1643%"Use a StringBuilder instead.(‚åúúüÿÿÿÿ
+7
+java:S1643-"Use a StringBuilder instead.(‚åúúüÿÿÿÿ
+7
+java:S16438"Use a StringBuilder instead.(‚åúúüÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+k
+java:S1149A"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ
+s
+java:S1149‚"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Èì˜œû0
+<	java:S131""Add a default case to this switch.(îÇËúÿÿÿÿ
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‡¯
+T
+java:S2130J"9Use "Integer.parseInt" for this string-to-int conversion.(Èêî©úÿÿÿÿ
+O
+java:S2130L"9Use "Integer.parseInt" for this string-to-int conversion.(ç¨à÷
+<	java:S131Y""Add a default case to this switch.(îÇËúÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(É÷àÈüÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ş·„¤ûÿÿÿÿ
+6	java:S131q""Add a default case to this switch.(î­™o
+D	java:S131“""Add a default case to this switch.(îÇËúÿÿÿÿ8Ñì˜œû0
